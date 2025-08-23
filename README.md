@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **divyam7246@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1RCp26CFraibtCZXBshB9ZTgw8pfLZYD5/view?usp=sharing]([https://drive.google.com/file/d/1RCp26CFraibtCZXBshB9ZTgw8pfLZYD5/view?usp=sharing](https://drive.google.com/file/d/1auvqGn0TSj55F2_sFJU34qvU9g1pezrp/view?usp=sharing))
+- 📄 Know about my experiences [https://drive.google.com/file/d/1auvqGn0TSj55F2_sFJU34qvU9g1pezrp/view?usp=sharing](https://drive.google.com/file/d/1auvqGn0TSj55F2_sFJU34qvU9g1pezrp/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
