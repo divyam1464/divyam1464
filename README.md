@@ -3,7 +3,7 @@
 
 - 🌱 Experience **Frontend Developer Intern - NullClass(Ed.Tech.) Aug 2025 - Present –  Collaborated with cross-functional teams to deliver a scalable trading dashboard for over 5000 users.– Built interactive charts with ReactJS, optimized database queries, reducing verification time by 35%. – Deployed on AWS and achieved 85% test coverage and 99.9% u**
 
-- 📫 How to reach me **kanikatyagi1836@gmail.com**
+- 📫 How to reach me **divyam7246@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1RCp26CFraibtCZXBshB9ZTgw8pfLZYD5/view?usp=sharing]([https://drive.google.com/file/d/1RCp26CFraibtCZXBshB9ZTgw8pfLZYD5/view?usp=sharing](https://drive.google.com/file/d/1auvqGn0TSj55F2_sFJU34qvU9g1pezrp/view?usp=sharing))
 
