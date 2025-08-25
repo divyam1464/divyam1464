@@ -1,5 +1,5 @@
 <h1 align="center">✨ Hi there, I'm Divyam Agarwal 👋</h1>
-<h3 align="center">🚀 Final-Year Computer Science & Engineering Student | 💻 Full-Stack Developer | 📊 Aspiring SDET</h3>
+<h3 align="center">🚀 Final-Year Computer Science & Engineering Student | 💻 Full-Stack Developer | 📊 Aspiring SDE</h3>
 
 ---
 
