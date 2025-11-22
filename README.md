@@ -8,7 +8,7 @@
 💼 Currently working as **Frontend Developer Intern @ NullClass (Ed.Tech.)**  
 ⚡ Experienced in building **scalable web applications, interactive dashboards, and test-driven systems**  
 📌 Passionate about **Web Development, AI/ML, and Cloud Computing**  
-🎯 Goal: To become a **skilled Software Engineer in Test (SDET)** contributing to high-quality and reliable software solutions  
+🎯 Goal: To become a **Skilled Software Developer Engineer  (SDE)** contributing to high-quality and reliable software solutions  
 
 ---
 
