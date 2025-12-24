@@ -56,21 +56,11 @@
 ---
 
 ### 📊 GitHub Stats  
-<p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=divyam1464&show_icons=true&theme=radical&include_all_commits=true&count_private=true&cache_seconds=1800" 
-    height="180"
-  />
-  <img 
-    src="https://streak-stats.demolab.com?user=divyam1464&theme=radical&hide_border=false&date_format=M%20j%5B%2C%20Y%5D" 
-    height="180"
-  />
-</p>
 
-<img 
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=divyam1464&layout=compact&theme=radical&cache_seconds=1800" 
-  height="150"
-/>
+![Stats](https://github-readme-stats.vercel.app/api?username=divyam1464&show_icons=true&theme=github_dark)
+
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=divyam1464&theme=github-dark)
+
 
 ---
 
