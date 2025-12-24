@@ -55,11 +55,10 @@
 
 ---
 
-### 📊 GitHub Stats  
+### 📊 GitHub Activity
 
-![Stats](https://github-readme-stats.vercel.app/api?username=divyam1464&show_icons=true&theme=github_dark)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=divyam1464&theme=github-dark)
 
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=divyam1464&theme=github-dark)
 
 
 ---
