@@ -55,6 +55,14 @@
 
 ---
 
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=divyam1464&theme=blue-green&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=divyam1464&theme=blue-green&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=divyam1464&theme=blue-green&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+
+---
+
 ### 📊 GitHub Activity
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=divyam1464&theme=github-dark)
