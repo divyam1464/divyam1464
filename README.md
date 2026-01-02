@@ -94,7 +94,7 @@
 
 ---
 
-![Snake animation](https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg)
+![Snake animation](https://raw.githubusercontent.com/divyam1464/github-contribution-grid-snake/output/github-contribution-grid-snake-dark.svg)
 
 ---
 
