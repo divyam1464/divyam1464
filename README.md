@@ -1,5 +1,14 @@
 <h1 align="center">✨ Hi there, I'm Divyam Agarwal 👋</h1>
-<h3 align="center">🚀 Final-Year Computer Science & Engineering Student | 💻 Full-Stack Developer | 📊 Aspiring SDE</h3>
+<h3 align="center">
+🚀 Full-Stack Developer | 💻 Final-Year CSE Student | 📊 Aspiring Software Engineer
+</h3>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Building+scalable+frontend+experiences;Turning+ideas+into+production+code;Learning+every+day+%7C+Shipping+consistently;Frontend+first.+Engineering+always." />
+</p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=divyam1464&label=Profile%20Views&color=0e75b6&style=flat" />
+</p>
+
 
 ---
 
@@ -8,7 +17,15 @@
 💼 Currently working as **Frontend Developer Intern @ NullClass (Ed.Tech.)**  
 ⚡ Experienced in building **scalable web applications, interactive dashboards, and test-driven systems**  
 📌 Passionate about **Web Development, AI/ML, and Cloud Computing**  
+📌 Interested in **Frontend Architecture, Performance Optimization, and Scalable Web Systems**
 🎯 Goal: To become a **Skilled Software Developer Engineer  (SDE)** contributing to high-quality and reliable software solutions  
+
+---
+
+### 🎯 Currently Focusing On
+- Strengthening frontend architecture and performance optimization
+- Writing testable, maintainable production code
+- Preparing for Software Engineer roles
 
 ---
 
@@ -16,7 +33,15 @@
 - **Frontend Developer Intern – NullClass (Ed.Tech.)** *(Aug 2025 – Present)*  
   🔹 Collaborated with cross-functional teams to deliver a **scalable trading dashboard** for 5000+ users  
   🔹 Built **interactive charts** using ReactJS and optimized DB queries → **reduced verification time by 35%**  
-  🔹 Deployed solutions on **AWS** achieving **85% test coverage & 99.9% uptime**  
+  🔹 Deployed solutions on **AWS** achieving **85% test coverage & 99.9% uptime**
+  🔧 **Tech Stack:** React.js, REST APIs, AWS, SQL, Jest, CI/CD
+
+---
+
+### 🧠 Engineering Philosophy
+
+> I believe great software is built at the intersection of **clarity, performance, and reliability**.  
+> I focus on writing maintainable code, testing what matters, and shipping features that scale with users.
 
 ---
 
@@ -36,7 +61,7 @@
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=yellow)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MY SQL Server](https://img.shields.io/badge/MSSQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+![Microsoft SQL Server](https://img.shields.io/badge/MSSQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
 
 #### ☁️ Cloud & DevOps  
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
@@ -56,9 +81,9 @@
 ---
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=divyam1464&theme=blue-green&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-stats.vercel.app/api?username=divyam1464&theme=blue-green&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=divyam1464&theme=blue-green&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=divyam1464&theme=blue-green&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=divyam1464&theme=blue-green&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 
 ---
@@ -67,7 +92,13 @@
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=divyam1464&theme=github-dark)
 
+---
 
+![Snake animation](https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg)
+
+---
+
+💬 *Open to meaningful collaborations, internships, and impactful engineering conversations.*
 
 ---
 
