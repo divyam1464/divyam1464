@@ -105,9 +105,8 @@
 ### 🌍 Connect With Me  
 <p align="left">
 <a href="mailto:divyam7246@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white&style=for-the-badge" /></a>
-<a href="https://www.linkedin.com/in/divyam-agarwal-112452206/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge" /></a>
+<a href="https://www.linkedin.com/in/divyam-agarwal-35564224a/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge" /></a>
 <a href="https://www.instagram.com/dv.not.found/"><img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white&style=for-the-badge" /></a>
-<a href="https://www.codechef.com/users/agarwal_divyam"><img src="https://img.shields.io/badge/CodeChef-5B4638?logo=codechef&logoColor=white&style=for-the-badge" /></a>
 </p>
 
 ---
