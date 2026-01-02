@@ -3,9 +3,6 @@
 🚀 Full-Stack Developer | 💻 Final-Year CSE Student | 📊 Aspiring Software Engineer
 </h3>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Building+scalable+frontend+experiences;Turning+ideas+into+production+code;Learning+every+day+%7C+Shipping+consistently;Frontend+first.+Engineering+always." />
-</p>
-<p align="center">
   <img src="https://komarev.com/ghpvc/?username=divyam1464&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
 
@@ -91,10 +88,6 @@
 ### 📊 GitHub Activity
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=divyam1464&theme=github-dark)
-
----
-
-![Snake animation](https://raw.githubusercontent.com/divyam1464/github-contribution-grid-snake/output/github-contribution-grid-snake-dark.svg)
 
 ---
 
